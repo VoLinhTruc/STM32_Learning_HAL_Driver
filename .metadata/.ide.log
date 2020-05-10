@@ -4137,3 +4137,1583 @@
 2020-05-09 18:24:28,584 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
 2020-05-09 18:24:28,612 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
 2020-05-09 18:27:59,316 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 20:47:39,349 [INFO] Activator:176 - 
+
+
+2020-05-09 20:47:39,356 [INFO] Activator:177 - !SESSION log4j initialized
+2020-05-09 20:48:34,511 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-09 20:48:34,569 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-09 20:48:34,581 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-09 20:48:34,582 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:34,583 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:34,588 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-09 20:48:34,636 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:34,641 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:34,651 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:34,654 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:34,659 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:35,862 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-09 20:48:36,275 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-05-09 20:48:36,730 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-05-09 20:48:36,731 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-09 20:48:36,732 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-09 20:48:36,735 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:36,736 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:36,737 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-09 20:48:36,738 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,739 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:36,740 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,741 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:36,742 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,743 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:36,744 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,744 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:36,745 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,746 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:36,747 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:36,747 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,361 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-09 20:48:37,644 [INFO] MainPanel:185 - HeapMemory: 268435456
+2020-05-09 20:48:37,830 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-09 20:48:37,831 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-09 20:48:37,831 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:37,832 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-09 20:48:37,833 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-09 20:48:37,835 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,836 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:37,837 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,838 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:37,838 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,839 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:37,840 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,841 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:37,842 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,842 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-09 20:48:37,843 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:37,844 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-09 20:48:38,361 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-09 20:48:38,440 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-09 20:48:38,444 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-05-09 20:48:38,450 [INFO] PluginManage:292 - Check plugin analytics
+2020-05-09 20:48:38,474 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-05-09 20:48:38,475 [INFO] PluginManage:292 - Check plugin clock
+2020-05-09 20:48:38,508 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-05-09 20:48:38,509 [INFO] PluginManage:292 - Check plugin ddr
+2020-05-09 20:48:38,519 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-05-09 20:48:38,519 [INFO] PluginManage:292 - Check plugin filemanager
+2020-05-09 20:48:38,935 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-05-09 20:48:38,936 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-05-09 20:48:38,976 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-05-09 20:48:38,976 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-05-09 20:48:39,013 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-05-09 20:48:39,014 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-05-09 20:48:39,084 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-05-09 20:48:39,085 [INFO] PluginManage:292 - Check plugin power
+2020-05-09 20:48:39,139 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-05-09 20:48:39,144 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-05-09 20:48:39,225 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-05-09 20:48:39,226 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-05-09 20:48:39,453 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 127 ms. number of Sw pack : 15
+2020-05-09 20:48:39,584 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-05-09 20:48:39,585 [INFO] PluginManage:292 - Check plugin tools
+2020-05-09 20:48:39,595 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-05-09 20:48:39,596 [INFO] PluginManage:292 - Check plugin updater
+2020-05-09 20:48:39,663 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-05-09 20:48:39,665 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-05-09 20:48:40,645 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-09 20:48:41,124 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,126 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-05-09 20:48:41,141 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,142 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-05-09 20:48:41,152 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,153 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-05-09 20:48:41,161 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,162 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-05-09 20:48:41,173 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,174 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-05-09 20:48:41,184 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,185 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-05-09 20:48:41,203 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,206 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-05-09 20:48:41,217 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,218 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-05-09 20:48:41,235 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,236 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-05-09 20:48:41,274 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,275 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-05-09 20:48:41,285 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,286 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-05-09 20:48:41,304 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,308 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-05-09 20:48:41,328 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,330 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-05-09 20:48:41,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,374 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-05-09 20:48:41,376 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,376 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-05-09 20:48:41,392 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,392 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-05-09 20:48:41,436 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,437 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-05-09 20:48:41,449 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,450 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-05-09 20:48:41,461 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,462 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-05-09 20:48:41,477 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,478 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-05-09 20:48:41,484 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,485 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-05-09 20:48:41,543 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,545 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-05-09 20:48:41,567 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,569 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-05-09 20:48:41,591 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,592 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-05-09 20:48:41,615 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,616 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-05-09 20:48:41,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,650 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-05-09 20:48:41,659 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,662 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-05-09 20:48:41,673 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,674 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-05-09 20:48:41,686 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,687 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-05-09 20:48:41,699 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,700 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-05-09 20:48:41,715 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,724 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-05-09 20:48:41,734 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,735 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-05-09 20:48:41,751 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,752 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-05-09 20:48:41,763 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,766 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-05-09 20:48:41,825 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,825 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-05-09 20:48:41,834 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,835 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-05-09 20:48:41,844 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,845 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-05-09 20:48:41,904 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:48:41,905 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-05-09 20:48:44,095 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2020-05-09 20:48:44,462 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-05-09 20:48:44,464 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-05-09 20:48:44,831 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-09 20:48:45,512 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-09 20:48:45,532 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-09 20:48:45,534 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-09 20:48:45,549 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-05-09 20:48:45,550 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-05-09 20:48:45,563 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2020-05-09 20:48:45,616 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-09 20:48:45,617 [ERROR] IntegrityCheckThread:230 - Cannot obtain thirdParties list 21
+2020-05-09 20:48:45,617 [ERROR] IntegrityCheckThread:99 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2020-05-09 20:48:45,619 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-05-09 20:48:46,037 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-05-09 20:48:46,060 [INFO] Updater:886 - Updater Version found : 5.4.0
+2020-05-09 20:48:46,138 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-09 20:49:13,927 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-09 20:49:13,930 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-05-09 20:49:13,930 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-09 20:49:14,113 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-05-09 20:49:14,150 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-09 20:49:14,152 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-05-09 20:49:14,847 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-05-09 20:49:14,893 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-05-09 20:49:14,899 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2020-05-09 20:49:20,387 [INFO] DbMcusJson:87 - JSON generation date=Wed Apr 15 12:54:18 ICT 2020 (1586930058)
+2020-05-09 20:49:27,707 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-05-09 20:49:27,710 [INFO] ApiDb:158 - Load user favorites file C:\Users\Bico/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-05-09 20:49:27,711 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-05-09 20:49:27,712 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-05-09 20:49:31,861 [INFO] DbMcusAds:130 - JSON generation date=Thu Apr 30 20:50:56 ICT 2020 (1588254656)
+2020-05-09 20:49:31,868 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-05-09 20:49:31,932 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/Bico/STM32Cube/Repository/\PR_STM32Cube_GitHub_0320_V1.png
+2020-05-09 20:49:34,399 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-05-09 20:49:34,949 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-05-09 20:49:34,956 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-05-09 20:49:34,965 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-05-09 20:49:34,970 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-05-09 20:49:34,987 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-05-09 20:49:35,008 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-05-09 20:49:35,014 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-05-09 20:49:35,218 [INFO] DbBoardsJson:79 - JSON generation date=Tue Feb 11 20:53:55 ICT 2020 (1581429235)
+2020-05-09 20:49:35,250 [INFO] DbBoards:120 - Found 137 boards (132 are supported by CubeMX)
+2020-05-09 20:49:35,263 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Apr 15 12:54:18 ICT 2020 (1586930058)
+2020-05-09 20:49:35,297 [INFO] DbBoardsDocs:57 - Found 157 boards documents
+2020-05-09 20:49:35,299 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-05-09 20:49:35,304 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-05-09 20:49:35,305 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-05-09 20:49:35,306 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-05-09 20:49:35,307 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-05-09 20:49:35,308 [WARN] DbBoards:152 - board STM32F723E-DISCO / document id not found: 4598
+2020-05-09 20:49:35,309 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-05-09 20:49:35,310 [WARN] DbBoards:152 - board STM32L496G-DISCO / document id not found: 4598
+2020-05-09 20:49:35,311 [WARN] DbBoards:152 - board STM32H747I-DISCO / document id not found: 4598
+2020-05-09 20:49:35,312 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-05-09 20:49:35,313 [WARN] DbBoards:152 - board STM32H745I-DISCO / document id not found: 4598
+2020-05-09 20:49:35,323 [WARN] DbBoards:152 - board STM32H750B-DK / document id not found: 4598
+2020-05-09 20:49:35,324 [WARN] DbBoards:152 - board STM32L4R9I-DISCO / document id not found: 4598
+2020-05-09 20:49:35,325 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-05-09 20:49:35,326 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4598
+2020-05-09 20:49:35,326 [WARN] DbBoards:130 - board STM32091C-EVAL has no document id list !
+2020-05-09 20:49:35,327 [WARN] DbBoards:130 - board STM3210C-EVAL has no document id list !
+2020-05-09 20:49:35,328 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-05-09 20:49:35,330 [WARN] DbBoards:130 - board STM3221G-EVAL has no document id list !
+2020-05-09 20:49:35,331 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-05-09 20:49:35,332 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-05-09 20:49:35,333 [WARN] DbBoards:130 - board STM32746G-EVAL2 has no document id list !
+2020-05-09 20:49:35,334 [WARN] DbBoards:130 - board STM32F779I-EVAL has no document id list !
+2020-05-09 20:49:35,334 [WARN] DbBoards:130 - board STM32479I-EVAL has no document id list !
+2020-05-09 20:49:35,335 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-05-09 20:49:35,336 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-05-09 20:49:35,337 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-05-09 20:49:35,338 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-05-09 20:49:35,339 [WARN] DbBoards:152 - board STM32H7B3I-DK / document id not found: 4598
+2020-05-09 20:49:35,340 [WARN] DbBoards:152 - board STM32H7B3I-EVAL / document id not found: 4596
+2020-05-09 20:49:41,409 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-05-09 20:49:43,269 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-05-09 20:49:46,544 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-DK
+2020-05-09 20:49:46,545 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-EVAL
+2020-05-09 20:49:46,576 [INFO] ApiDb:158 - Load user favorites file C:\Users\Bico/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-05-09 20:49:46,577 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-05-09 20:49:46,578 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-05-09 20:49:47,142 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-05-09 20:49:47,143 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/Bico/STM32Cube/Repository/\PR_STM32Cube_GitHub_0320_V1.png
+2020-05-09 20:49:47,327 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-05-09 20:49:48,627 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Bico\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-05-09 20:49:51,868 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2020-05-09 20:49:51,877 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2020-05-09 20:50:19,268 [INFO] DbMcusDocs:126 - JSON generation date=Thu Apr 16 21:39:08 ICT 2020 (1587047948)
+2020-05-09 20:50:19,537 [INFO] DbMcusDocs:61 - Found 563 MCUs documents
+2020-05-09 20:55:04,502 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-05-09 20:55:04,502 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-05-09 20:55:04,502 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-05-09 20:55:04,784 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2020-05-09 20:55:04,940 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-09 20:55:04,956 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-05-09 20:55:05,065 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-09 20:55:05,065 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-09 20:55:05,065 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-09 20:55:05,065 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 514719144 Bytes (797966336)
+2020-05-09 20:55:05,065 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-09 20:55:05,065 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-09 20:55:05,065 [INFO] OpenFileManager:269 - Change cursor
+2020-05-09 20:55:11,125 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-05-09 20:55:11,125 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2020-05-09 20:55:11,125 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2020-05-09 20:55:11,813 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 372674960 Bytes (853540864)
+2020-05-09 20:55:11,844 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 15
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 5.0.0
+2020-05-09 20:55:12,094 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.1.0
+2020-05-09 20:55:12,109 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.1.0
+2020-05-09 20:55:12,109 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.2
+2020-05-09 20:55:12,109 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.1.0
+2020-05-09 20:55:12,109 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.0.0
+2020-05-09 20:55:12,813 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-09 20:55:12,813 [INFO] PinOutPanel:1367 - setPackage(STM32F407VETx,LQFP100)
+2020-05-09 20:55:13,922 [INFO] UtilMem:74 - Before build in PCC Used Memory: 509811960 Bytes (853540864)
+2020-05-09 20:55:14,734 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Bico/.stm32cubemx/plugins/power
+2020-05-09 20:55:14,734 [INFO] UtilMem:74 - After build in PCC Used Memory: 523965696 Bytes (853540864)
+2020-05-09 20:55:14,766 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,781 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,797 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-09 20:55:14,812 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 20:55:14,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-05-09 20:55:15,094 [INFO] OpenFileManager:289 - Restore cursor
+2020-05-09 20:55:15,219 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 20:55:15,328 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 20:55:15,656 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 558568704 Bytes (853540864)
+2020-05-09 20:55:15,797 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 563289336 Bytes (853540864)
+2020-05-09 20:55:16,984 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-09 20:55:16,984 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-09 20:55:17,000 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-09 20:55:17,859 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-09 20:55:18,828 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-09 20:55:19,187 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-09 20:55:19,187 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-09 20:55:19,203 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-09 20:55:19,203 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-09 20:55:19,203 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-09 20:55:19,249 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-09 20:55:19,709 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-09 20:55:19,740 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-09 20:55:20,006 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-09 20:55:20,068 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-09 20:55:20,813 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-09 20:55:20,865 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-09 20:55:21,117 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-09 20:55:21,164 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-09 20:55:21,461 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-09 20:55:21,570 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-09 20:55:21,945 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-09 20:55:22,008 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-09 20:55:22,414 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-09 20:55:24,947 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 500mS.
+2020-05-09 20:55:24,978 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-09 20:55:26,152 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-09 20:55:47,099 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 22121mS.
+2020-05-09 20:55:47,107 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-09 20:55:47,135 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-09 21:06:01,109 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:04,625 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:04,656 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:06,265 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:08,890 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:09,078 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:13,796 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:14,921 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:22,702 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:32,670 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:37,123 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:06:37,263 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:07:02,708 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 714938488 Bytes (933232640)
+2020-05-09 21:07:03,125 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 731189376 Bytes (933232640)
+2020-05-09 21:07:03,539 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-09 21:07:03,539 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-09 21:07:03,539 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-09 21:07:03,539 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-09 21:07:03,539 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-09 21:07:03,555 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-09 21:07:04,305 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-09 21:07:04,477 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-09 21:07:04,602 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-09 21:07:04,882 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-09 21:07:05,001 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-09 21:07:05,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-09 21:07:05,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-09 21:07:05,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-09 21:07:05,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-09 21:07:05,032 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-09 21:07:05,032 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-09 21:07:05,032 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-09 21:07:05,064 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-09 21:07:05,376 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-09 21:07:05,423 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-09 21:07:05,657 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-09 21:07:05,720 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-09 21:07:06,157 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-09 21:07:06,204 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-09 21:07:06,454 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-09 21:07:06,501 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-09 21:07:06,751 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-09 21:07:06,798 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-09 21:07:06,814 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-09 21:07:06,845 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-09 21:07:07,095 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-09 21:07:07,142 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-09 21:07:07,532 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-09 21:07:09,696 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 616mS.
+2020-05-09 21:07:09,696 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-09 21:07:10,336 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-09 21:07:16,137 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 6441mS.
+2020-05-09 21:07:16,137 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-09 21:07:16,168 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-09 21:19:05,564 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:19:08,751 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-09 21:19:18,422 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2020-05-09 21:19:34,218 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
+2020-05-09 21:20:06,339 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:27:33,830 [INFO] Activator:176 - 
+
+
+2020-05-10 07:27:33,830 [INFO] Activator:177 - !SESSION log4j initialized
+2020-05-10 07:28:55,706 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-10 07:28:55,737 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-10 07:28:55,737 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-10 07:28:55,737 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:55,737 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:55,753 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-10 07:28:55,784 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:55,784 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:55,800 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:55,800 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:55,800 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,362 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-10 07:28:56,597 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-05-10 07:28:56,940 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-05-10 07:28:56,940 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-10 07:28:56,940 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-10 07:28:56,940 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:56,940 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:56,956 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:56,956 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:57,865 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-10 07:28:58,115 [INFO] MainPanel:185 - HeapMemory: 315621376
+2020-05-10 07:28:58,318 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-05-10 07:28:58,318 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-05-10 07:28:58,318 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:58,318 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-05-10 07:28:58,318 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-05-10 07:28:58,318 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,318 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:58,318 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,318 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:58,318 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,334 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:58,334 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,334 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:58,334 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,334 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/
+2020-05-10 07:28:58,334 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,334 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Bico\.stmcufinder\plugins\mcufinder/ => C:\Users\Bico\.stmcufinder\plugins\mcufinder
+2020-05-10 07:28:58,865 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Bico\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-05-10 07:28:58,928 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-10 07:28:58,928 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-05-10 07:28:58,943 [INFO] PluginManage:292 - Check plugin analytics
+2020-05-10 07:28:58,959 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-05-10 07:28:58,959 [INFO] PluginManage:292 - Check plugin clock
+2020-05-10 07:28:58,990 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-05-10 07:28:58,990 [INFO] PluginManage:292 - Check plugin ddr
+2020-05-10 07:28:59,006 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-05-10 07:28:59,006 [INFO] PluginManage:292 - Check plugin filemanager
+2020-05-10 07:28:59,381 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-05-10 07:28:59,381 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-05-10 07:28:59,428 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-05-10 07:28:59,428 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-05-10 07:28:59,521 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-05-10 07:28:59,521 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-05-10 07:28:59,600 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-05-10 07:28:59,600 [INFO] PluginManage:292 - Check plugin power
+2020-05-10 07:28:59,631 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-05-10 07:28:59,631 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-05-10 07:28:59,678 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-05-10 07:28:59,678 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-05-10 07:28:59,865 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 109 ms. number of Sw pack : 15
+2020-05-10 07:28:59,928 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-05-10 07:28:59,928 [INFO] PluginManage:292 - Check plugin tools
+2020-05-10 07:28:59,928 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-05-10 07:28:59,928 [INFO] PluginManage:292 - Check plugin updater
+2020-05-10 07:28:59,975 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-05-10 07:28:59,975 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-05-10 07:29:00,725 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:29:01,146 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,146 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-05-10 07:29:01,146 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,146 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-05-10 07:29:01,162 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,162 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-05-10 07:29:01,162 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,178 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-05-10 07:29:01,178 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,178 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-05-10 07:29:01,193 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,193 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-05-10 07:29:01,209 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,209 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-05-10 07:29:01,209 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,209 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-05-10 07:29:01,225 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,225 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-05-10 07:29:01,240 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,256 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-05-10 07:29:01,256 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,256 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-05-10 07:29:01,256 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,271 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-05-10 07:29:01,271 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,271 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-05-10 07:29:01,287 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,287 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-05-10 07:29:01,303 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,303 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-05-10 07:29:01,318 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,318 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-05-10 07:29:01,318 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,318 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-05-10 07:29:01,334 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,334 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-05-10 07:29:01,334 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,334 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-05-10 07:29:01,349 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,349 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-05-10 07:29:01,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,365 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-05-10 07:29:01,381 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,381 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-05-10 07:29:01,396 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,396 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-05-10 07:29:01,396 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,396 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-05-10 07:29:01,412 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,412 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-05-10 07:29:01,443 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,459 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-05-10 07:29:01,459 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,459 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-05-10 07:29:01,474 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,474 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-05-10 07:29:01,474 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,490 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-05-10 07:29:01,490 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,490 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-05-10 07:29:01,506 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,506 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-05-10 07:29:01,506 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,506 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-05-10 07:29:01,521 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,521 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-05-10 07:29:01,537 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,537 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-05-10 07:29:01,537 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,537 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-05-10 07:29:01,553 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,553 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-05-10 07:29:01,553 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,553 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-05-10 07:29:01,568 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:01,568 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-05-10 07:29:03,018 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2020-05-10 07:29:03,393 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-05-10 07:29:03,393 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-05-10 07:29:03,855 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-10 07:29:04,667 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-10 07:29:04,683 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:29:04,699 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-10 07:29:04,714 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-05-10 07:29:04,714 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-05-10 07:29:04,730 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2020-05-10 07:29:04,949 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-05-10 07:29:04,949 [INFO] Updater:886 - Updater Version found : 5.4.0
+2020-05-10 07:29:05,011 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-05-10 07:29:05,917 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-05-10 07:29:05,917 [ERROR] IntegrityCheckThread:230 - Cannot obtain thirdParties list 21
+2020-05-10 07:29:05,917 [ERROR] IntegrityCheckThread:99 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2020-05-10 07:29:05,917 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-05-10 07:29:06,152 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-10 07:29:06,152 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-05-10 07:29:06,152 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-10 07:29:06,261 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-05-10 07:29:06,370 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-10 07:29:06,370 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-05-10 07:29:06,589 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-10 07:29:06,589 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-10 07:29:06,605 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:29:06,605 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 242043584 Bytes (315621376)
+2020-05-10 07:29:06,605 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-10 07:29:06,605 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-10 07:29:06,605 [INFO] OpenFileManager:269 - Change cursor
+2020-05-10 07:29:15,464 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (12500000)
+2020-05-10 07:29:17,713 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 243674952 Bytes (315621376)
+2020-05-10 07:29:17,760 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Bico/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 15 ms. number of Sw pack : 15
+2020-05-10 07:29:18,135 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-05-10 07:29:18,135 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-05-10 07:29:18,135 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-05-10 07:29:18,135 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 5.0.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.1.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.1.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.2
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.1.0
+2020-05-10 07:29:18,151 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.0.0
+2020-05-10 07:29:19,229 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:29:19,260 [INFO] PinOutPanel:1367 - setPackage(STM32F407VETx,LQFP100)
+2020-05-10 07:29:20,416 [INFO] UtilMem:74 - Before build in PCC Used Memory: 268554384 Bytes (315621376)
+2020-05-10 07:29:21,392 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Bico/.stm32cubemx/plugins/power
+2020-05-10 07:29:21,400 [INFO] UtilMem:74 - After build in PCC Used Memory: 244215416 Bytes (315621376)
+2020-05-10 07:29:21,462 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:29:21,462 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,470 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,470 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,470 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,480 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,480 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,480 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,491 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,491 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,501 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,501 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,501 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,511 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,513 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,513 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,513 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:29:21,543 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:29:21,594 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-05-10 07:29:21,906 [INFO] OpenFileManager:289 - Restore cursor
+2020-05-10 07:29:21,916 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2020-05-10 07:29:22,118 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:29:22,421 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:29:25,601 [INFO] DbMcusJson:87 - JSON generation date=Wed Apr 15 12:54:18 ICT 2020 (1586930058)
+2020-05-10 07:29:29,065 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-05-10 07:29:29,065 [INFO] ApiDb:147 - User favorites file not found: C:\Users\Bico/.stm32cubemx/favorites.mcus.txt
+2020-05-10 07:29:29,065 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-05-10 07:29:33,419 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 394269640 Bytes (557842432)
+2020-05-10 07:29:34,654 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 07:29:34,654 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 07:29:34,654 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 07:29:34,654 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 07:29:34,654 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 07:29:34,669 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 07:29:36,107 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 07:29:37,200 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 07:29:37,622 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 07:29:38,060 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 07:29:38,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:29:38,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 07:29:38,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:29:38,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:29:38,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 07:29:38,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:29:38,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 07:29:38,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:29:38,341 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 07:29:38,872 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 07:29:39,013 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 07:29:39,325 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 07:29:39,403 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 07:29:39,934 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 07:29:39,966 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 07:29:40,356 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 07:29:40,403 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 07:29:40,700 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 07:29:40,809 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 07:29:40,825 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 07:29:40,856 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 07:29:41,231 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 07:29:41,278 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 07:29:41,794 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 07:29:44,684 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 781mS.
+2020-05-10 07:29:44,715 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 07:29:45,715 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 07:29:52,574 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 7859mS.
+2020-05-10 07:29:52,590 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 16mS.
+2020-05-10 07:29:52,605 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:31:33,768 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 465341488 Bytes (939524096)
+2020-05-10 07:31:34,159 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 07:31:34,159 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 07:31:34,159 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 07:31:34,159 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 07:31:34,159 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 07:31:34,159 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 07:31:34,596 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 07:31:34,799 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 07:31:34,877 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 07:31:35,127 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 07:31:35,237 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:31:35,237 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 07:31:35,237 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:31:35,252 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:31:35,252 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 07:31:35,252 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:31:35,268 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 07:31:35,268 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:31:35,299 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 07:31:35,612 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 07:31:35,659 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 07:31:35,940 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 07:31:36,002 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 07:31:36,346 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 07:31:36,393 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 07:31:36,612 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 07:31:36,658 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 07:31:36,940 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 07:31:37,002 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 07:31:37,018 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 07:31:37,049 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 07:31:37,330 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 07:31:37,377 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 07:31:37,658 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 07:31:39,939 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 671mS.
+2020-05-10 07:31:39,955 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 07:31:40,752 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 07:31:45,048 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 5093mS.
+2020-05-10 07:31:45,048 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:31:45,080 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:34:51,944 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 701789448 Bytes (939524096)
+2020-05-10 07:34:52,428 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 07:34:52,428 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 07:34:52,428 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 07:34:52,428 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 07:34:52,428 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 07:34:52,428 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 07:34:52,819 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 07:34:52,991 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 07:34:53,053 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 07:34:53,288 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 07:34:53,413 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:34:53,413 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 07:34:53,413 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:34:53,428 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:34:53,428 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 07:34:53,428 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:34:53,428 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 07:34:53,444 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:34:53,475 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 07:34:53,725 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 07:34:53,756 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 07:34:53,913 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 07:34:53,959 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 07:34:54,225 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 07:34:54,256 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 07:34:54,428 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 07:34:54,459 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 07:34:54,647 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 07:34:54,694 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 07:34:54,694 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 07:34:54,725 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 07:34:54,928 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 07:34:54,959 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 07:34:55,256 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 07:34:56,787 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 609mS.
+2020-05-10 07:34:56,803 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 07:34:58,412 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 07:35:02,568 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 5765mS.
+2020-05-10 07:35:02,568 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:35:02,599 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:35:40,993 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:35:58,103 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-10 07:35:58,103 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-05-10 07:35:58,244 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-05-10 07:35:58,275 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-05-10 07:36:00,181 [INFO] DbMcusAds:130 - JSON generation date=Thu Apr 30 20:50:56 ICT 2020 (1588254656)
+2020-05-10 07:36:00,181 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-05-10 07:36:00,228 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/Bico/STM32Cube/Repository/\PR_STM32Cube_GitHub_0320_V1.png
+2020-05-10 07:36:01,244 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-05-10 07:36:01,755 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-05-10 07:36:01,757 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-05-10 07:36:01,767 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-05-10 07:36:01,775 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-05-10 07:36:01,787 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-05-10 07:36:01,805 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-05-10 07:36:01,807 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-05-10 07:36:01,857 [INFO] DbBoardsJson:79 - JSON generation date=Tue Feb 11 20:53:55 ICT 2020 (1581429235)
+2020-05-10 07:36:01,878 [INFO] DbBoards:120 - Found 137 boards (132 are supported by CubeMX)
+2020-05-10 07:36:01,896 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Apr 15 12:54:18 ICT 2020 (1586930058)
+2020-05-10 07:36:01,918 [INFO] DbBoardsDocs:57 - Found 157 boards documents
+2020-05-10 07:36:01,918 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-05-10 07:36:01,918 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-05-10 07:36:01,918 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-05-10 07:36:01,926 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-05-10 07:36:01,928 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-05-10 07:36:01,928 [WARN] DbBoards:152 - board STM32F723E-DISCO / document id not found: 4598
+2020-05-10 07:36:01,928 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-05-10 07:36:01,936 [WARN] DbBoards:152 - board STM32L496G-DISCO / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:152 - board STM32H747I-DISCO / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-05-10 07:36:01,938 [WARN] DbBoards:152 - board STM32H745I-DISCO / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:152 - board STM32H750B-DK / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:152 - board STM32L4R9I-DISCO / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-05-10 07:36:01,938 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4598
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM32091C-EVAL has no document id list !
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM3210C-EVAL has no document id list !
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-05-10 07:36:01,938 [WARN] DbBoards:130 - board STM3221G-EVAL has no document id list !
+2020-05-10 07:36:01,946 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-05-10 07:36:01,946 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-05-10 07:36:01,946 [WARN] DbBoards:130 - board STM32746G-EVAL2 has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STM32F779I-EVAL has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STM32479I-EVAL has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-05-10 07:36:01,948 [WARN] DbBoards:152 - board STM32H7B3I-DK / document id not found: 4598
+2020-05-10 07:36:01,948 [WARN] DbBoards:152 - board STM32H7B3I-EVAL / document id not found: 4596
+2020-05-10 07:36:03,047 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-05-10 07:36:03,579 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-05-10 07:36:04,350 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-DK
+2020-05-10 07:36:04,350 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-EVAL
+2020-05-10 07:36:04,366 [INFO] ApiDb:158 - Load user favorites file C:\Users\Bico/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-05-10 07:36:04,366 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-05-10 07:36:04,366 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-05-10 07:36:04,497 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-05-10 07:36:04,513 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/Bico/STM32Cube/Repository/\PR_STM32Cube_GitHub_0320_V1.png
+2020-05-10 07:36:04,566 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-05-10 07:36:05,284 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Bico\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-05-10 07:36:13,551 [INFO] DbMcusDocs:126 - JSON generation date=Thu Apr 16 21:39:08 ICT 2020 (1587047948)
+2020-05-10 07:36:13,817 [INFO] DbMcusDocs:61 - Found 563 MCUs documents
+2020-05-10 07:36:18,961 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-05-10 07:36:18,961 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-05-10 07:36:18,961 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-05-10 07:36:19,164 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2020-05-10 07:36:19,382 [INFO] MainUpdater:2232 - connection check result : 10
+2020-05-10 07:36:19,398 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-05-10 07:36:19,492 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-10 07:36:19,492 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-10 07:36:19,507 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:36:19,539 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 630554960 Bytes (1023410176)
+2020-05-10 07:36:19,539 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-05-10 07:36:19,539 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-05-10 07:36:19,539 [INFO] OpenFileManager:269 - Change cursor
+2020-05-10 07:36:19,554 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-05-10 07:36:23,788 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-05-10 07:36:23,804 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2020-05-10 07:36:23,804 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2020-05-10 07:36:24,320 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 673726464 Bytes (1023410176)
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-05-10 07:36:24,460 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 5.0.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.1.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.1.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.2
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.1.0
+2020-05-10 07:36:24,476 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.0.0
+2020-05-10 07:36:24,835 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-05-10 07:36:24,835 [INFO] PinOutPanel:1367 - setPackage(STM32F407VETx,LQFP100)
+2020-05-10 07:36:25,413 [INFO] UtilMem:74 - Before build in PCC Used Memory: 798280552 Bytes (1023410176)
+2020-05-10 07:36:25,851 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Bico/.stm32cubemx/plugins/power
+2020-05-10 07:36:25,851 [INFO] UtilMem:74 - After build in PCC Used Memory: 806144880 Bytes (1023410176)
+2020-05-10 07:36:25,882 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,898 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,913 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,929 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,945 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,945 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-05-10 07:36:25,960 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:36:26,038 [INFO] OpenFileManager:289 - Restore cursor
+2020-05-10 07:36:26,366 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:36:26,476 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:36:26,726 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 835502960 Bytes (1023410176)
+2020-05-10 07:36:26,913 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 840745840 Bytes (1023410176)
+2020-05-10 07:36:27,694 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 07:36:27,694 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 07:36:27,694 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 07:36:28,788 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 07:36:29,507 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 07:36:30,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:36:30,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 07:36:30,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:36:30,463 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 07:36:30,463 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:36:30,713 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 07:36:32,590 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 07:36:32,949 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 07:36:33,879 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 07:36:34,036 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 07:36:35,516 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 07:36:35,653 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 07:36:36,662 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 07:36:37,043 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 07:36:37,865 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 07:36:38,429 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 07:36:39,107 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 07:36:39,353 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 07:36:40,792 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 07:36:45,570 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 1467mS.
+2020-05-10 07:36:45,592 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 07:36:47,130 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 07:37:08,484 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 22892mS.
+2020-05-10 07:37:08,496 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 6mS.
+2020-05-10 07:37:08,589 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 07:42:55,170 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:42:57,799 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:42:57,836 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:42:58,057 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:00,305 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:00,480 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:06,234 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:09,996 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:11,933 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:12,074 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 07:43:18,646 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 703376416 Bytes (1073741824)
+2020-05-10 07:43:18,974 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 721036552 Bytes (1073741824)
+2020-05-10 07:43:19,411 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 07:43:19,411 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 07:43:19,411 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 07:43:19,411 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 07:43:19,411 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 07:43:19,411 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 07:43:19,864 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 07:43:20,052 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 07:43:20,114 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 07:43:20,349 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 07:43:20,427 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:43:20,427 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 07:43:20,442 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:43:20,442 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 07:43:20,442 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 07:43:20,442 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:43:20,458 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 07:43:20,458 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 07:43:20,489 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 07:43:20,755 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 07:43:20,802 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 07:43:21,161 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 07:43:21,239 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 07:43:21,489 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 07:43:21,521 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 07:43:21,677 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 07:43:21,708 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 07:43:21,864 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 07:43:21,911 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 07:43:21,911 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 07:43:21,927 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 07:43:22,114 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 07:43:22,161 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 07:43:22,474 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 07:43:24,005 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 563mS.
+2020-05-10 07:43:24,005 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 07:43:24,489 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 07:43:28,770 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4765mS.
+2020-05-10 07:43:28,785 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 15mS.
+2020-05-10 07:43:28,816 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 08:15:43,306 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,514x420,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 08:25:44,234 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 08:26:04,145 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 585388176 Bytes (1073741824)
+2020-05-10 08:26:04,474 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 596922512 Bytes (1073741824)
+2020-05-10 08:26:04,833 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 08:26:04,833 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 08:26:04,833 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 08:26:04,833 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 08:26:04,833 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 08:26:04,833 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 08:26:05,130 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 08:26:05,270 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 08:26:05,349 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 08:26:05,583 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 08:26:05,708 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 08:26:05,708 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 08:26:05,708 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 08:26:05,708 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 08:26:05,723 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 08:26:05,723 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 08:26:05,723 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 08:26:05,723 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 08:26:05,770 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 08:26:05,989 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 08:26:06,020 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 08:26:06,161 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 08:26:06,208 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 08:26:06,426 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 08:26:06,473 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 08:26:06,582 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 08:26:06,613 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 08:26:06,785 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 08:26:06,832 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 08:26:06,832 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 08:26:06,847 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 08:26:07,035 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 08:26:07,066 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 08:26:07,332 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 08:26:09,910 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 610mS.
+2020-05-10 08:26:09,925 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 08:26:10,910 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 08:26:14,675 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4750mS.
+2020-05-10 08:26:14,675 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 08:26:14,706 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 08:36:01,304 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 08:36:01,413 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 09:06:08,040 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:06:08,153 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 09:06:10,358 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 553943512 Bytes (1073741824)
+2020-05-10 09:06:10,704 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 566526424 Bytes (1073741824)
+2020-05-10 09:06:11,087 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 09:06:11,087 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 09:06:11,088 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 09:06:11,088 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 09:06:11,090 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 09:06:11,094 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 09:06:11,406 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 09:06:11,553 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 09:06:11,594 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 09:06:11,732 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 09:06:11,795 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 09:06:11,797 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 09:06:11,798 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:06:11,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 09:06:11,804 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 09:06:11,805 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:06:11,809 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 09:06:11,810 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:06:11,833 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 09:06:12,051 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 09:06:12,086 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 09:06:12,310 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 09:06:12,362 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 09:06:12,606 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 09:06:12,637 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 09:06:12,762 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 09:06:12,793 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 09:06:12,965 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 09:06:13,012 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 09:06:13,012 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 09:06:13,028 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 09:06:13,200 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 09:06:13,237 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 09:06:13,486 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 09:06:16,499 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 669mS.
+2020-05-10 09:06:16,511 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 09:06:17,418 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 09:06:21,451 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4940mS.
+2020-05-10 09:06:21,458 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 6mS.
+2020-05-10 09:06:21,486 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 1mS.
+2020-05-10 09:07:26,254 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:01,490 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:03,877 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:05,552 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:05,622 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 09:21:12,714 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:16,010 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:16,077 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 09:21:22,788 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 09:21:34,957 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 625267664 Bytes (1073741824)
+2020-05-10 09:21:35,311 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 636802000 Bytes (1073741824)
+2020-05-10 09:21:35,678 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 09:21:35,679 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 09:21:35,679 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 09:21:35,680 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 09:21:35,680 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 09:21:35,685 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 09:21:36,043 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 09:21:36,229 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 09:21:36,269 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 09:21:36,413 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 09:21:36,476 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 09:21:36,478 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 09:21:36,479 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:21:36,485 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 09:21:36,488 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 09:21:36,489 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:21:36,495 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 09:21:36,496 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 09:21:36,524 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 09:21:36,782 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 09:21:36,822 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 09:21:37,030 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 09:21:37,087 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 09:21:37,325 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 09:21:37,358 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 09:21:37,478 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 09:21:37,510 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 09:21:37,746 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 09:21:37,782 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 09:21:37,786 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 09:21:37,807 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 09:21:37,995 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 09:21:38,032 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 09:21:38,528 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 09:21:40,007 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 614mS.
+2020-05-10 09:21:40,016 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 09:21:40,488 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 09:21:44,531 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4515mS.
+2020-05-10 09:21:44,536 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 09:21:44,562 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 1mS.
+2020-05-10 16:12:33,304 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 16:12:33,474 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-05-10 16:12:44,380 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 475592616 Bytes (1073741824)
+2020-05-10 16:12:44,705 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 16:12:44,706 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 16:12:44,707 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 16:12:44,707 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 16:12:44,707 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 16:12:44,713 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 16:12:45,089 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 16:12:45,252 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 16:12:45,305 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 16:12:45,519 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 16:12:45,624 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 16:12:45,628 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 16:12:45,630 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:12:45,635 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 16:12:45,637 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 16:12:45,638 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:12:45,643 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 16:12:45,644 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:12:45,670 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 16:12:45,927 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 16:12:45,966 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 16:12:46,186 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 16:12:46,239 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 16:12:46,481 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 16:12:46,519 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 16:12:46,644 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 16:12:46,675 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 16:12:46,832 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 16:12:46,863 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 16:12:46,863 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 16:12:46,894 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 16:12:47,097 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 16:12:47,128 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 16:12:47,435 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 16:12:48,900 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 671mS.
+2020-05-10 16:12:48,911 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 16:12:51,088 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 16:12:54,374 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 5463mS.
+2020-05-10 16:12:54,380 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 16:12:54,408 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 1mS.
+2020-05-10 16:34:45,407 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2020-05-10 16:34:56,045 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 16:35:23,718 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 536754984 Bytes (1073741824)
+2020-05-10 16:35:23,843 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 544095016 Bytes (1073741824)
+2020-05-10 16:35:24,242 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 558252832 Bytes (1073741824)
+2020-05-10 16:35:24,612 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 16:35:24,612 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 16:35:24,612 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 16:35:24,612 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 16:35:24,612 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 16:35:24,612 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 16:35:25,003 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 16:35:25,128 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 16:35:25,174 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 16:35:25,341 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 16:35:25,402 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 16:35:25,404 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 16:35:25,405 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:35:25,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 16:35:25,411 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 16:35:25,412 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:35:25,416 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 16:35:25,418 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 16:35:25,441 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 16:35:25,622 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 16:35:25,653 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 16:35:25,836 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 16:35:25,882 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 16:35:26,107 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 16:35:26,136 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 16:35:26,305 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 16:35:26,337 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 16:35:26,501 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 16:35:26,540 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 16:35:26,544 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 16:35:26,565 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 16:35:26,720 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 16:35:26,757 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 16:35:26,975 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 16:35:28,567 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 640mS.
+2020-05-10 16:35:28,579 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 16:35:31,330 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 16:35:34,950 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 6371mS.
+2020-05-10 16:35:34,956 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 16:35:34,984 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:09:59,901 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 593764408 Bytes (1073741824)
+2020-05-10 17:10:00,288 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:10:00,289 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:10:00,289 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:10:00,290 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:10:00,290 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:10:00,295 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:10:00,576 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:10:00,692 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:10:00,730 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:10:00,855 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:10:00,920 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:10:00,922 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:10:00,924 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:10:00,929 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:10:00,933 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:10:00,935 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:10:00,942 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:10:00,944 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:10:00,976 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:10:01,193 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:10:01,235 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:10:01,432 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:10:01,480 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:10:01,693 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:10:01,725 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:10:01,882 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:10:01,914 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:10:02,096 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:10:02,134 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:10:02,139 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:10:02,166 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:10:02,367 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:10:02,401 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:10:02,665 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:10:04,121 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 626mS.
+2020-05-10 17:10:04,134 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:10:08,289 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:10:12,106 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 7972mS.
+2020-05-10 17:10:12,108 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:10:12,138 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:10:22,724 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
+2020-05-10 17:12:43,844 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 616415896 Bytes (1073741824)
+2020-05-10 17:12:44,125 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:12:44,125 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:12:44,125 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:12:44,125 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:12:44,125 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:12:44,140 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:12:44,442 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:12:44,787 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:12:44,825 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:12:45,010 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:12:45,094 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:12:45,098 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:12:45,101 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:12:45,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:12:45,112 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:12:45,116 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:12:45,125 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:12:45,128 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:12:45,163 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:12:45,425 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:12:45,457 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:12:45,600 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:12:45,647 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:12:45,897 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:12:45,928 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:12:46,053 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:12:46,085 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:12:46,246 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:12:46,286 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:12:46,290 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:12:46,310 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:12:46,465 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:12:46,500 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:12:46,739 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:12:48,661 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 688mS.
+2020-05-10 17:12:48,661 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:12:49,986 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:12:53,049 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4388mS.
+2020-05-10 17:12:53,049 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:12:53,081 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:14:07,130 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 572199712 Bytes (1073741824)
+2020-05-10 17:14:07,497 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:14:07,498 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:14:07,498 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:14:07,499 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:14:07,499 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:14:07,504 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:14:07,980 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:14:08,138 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:14:08,181 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:14:08,397 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:14:08,464 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:14:08,464 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:14:08,464 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:14:08,464 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:14:08,480 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:14:08,480 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:14:08,480 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:14:08,480 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:14:08,511 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:14:08,714 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:14:08,761 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:14:08,948 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:14:08,995 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:14:09,198 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:14:09,240 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:14:09,379 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:14:09,411 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:14:09,553 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:14:09,599 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:14:09,599 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:14:09,615 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:14:10,021 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:14:10,068 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:14:10,337 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:14:12,455 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 693mS.
+2020-05-10 17:14:12,468 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:14:13,403 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:14:16,687 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4219mS.
+2020-05-10 17:14:16,693 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 17:14:16,720 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:19:23,604 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 399289912 Bytes (1073741824)
+2020-05-10 17:19:23,948 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 412921400 Bytes (1073741824)
+2020-05-10 17:19:24,301 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:19:24,302 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:19:24,302 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:19:24,303 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:19:24,303 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:19:24,307 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:19:24,600 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:19:24,785 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:19:24,839 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:19:25,029 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:19:25,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:19:25,109 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:19:25,110 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:19:25,115 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:19:25,117 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:19:25,119 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:19:25,124 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:19:25,126 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:19:25,157 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:19:25,425 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:19:25,457 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:19:25,610 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:19:25,663 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:19:25,874 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:19:25,905 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:19:26,070 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:19:26,099 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:19:26,334 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:19:26,379 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:19:26,385 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:19:26,414 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:19:26,580 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:19:26,615 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:19:27,042 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:19:28,650 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 658mS.
+2020-05-10 17:19:28,662 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:19:30,174 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:19:33,822 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 5160mS.
+2020-05-10 17:19:33,828 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 17:19:33,907 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 1mS.
+2020-05-10 17:27:18,398 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2020-05-10 17:46:28,903 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 577084464 Bytes (1073741824)
+2020-05-10 17:46:29,242 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:46:29,243 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:46:29,243 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:46:29,243 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:46:29,244 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:46:29,248 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:46:29,547 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:46:29,709 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:46:29,760 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:46:29,941 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:46:30,043 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:46:30,045 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:46:30,047 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:30,054 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:46:30,057 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:46:30,059 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:30,066 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:46:30,068 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:30,104 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:46:30,406 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:46:30,445 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:46:30,625 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:46:30,687 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:46:30,922 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:46:30,953 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:46:31,062 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:46:31,093 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:46:31,301 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:46:31,341 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:46:31,345 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:46:31,366 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:46:31,547 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:46:31,571 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:46:31,789 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:46:34,163 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 636mS.
+2020-05-10 17:46:34,163 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:46:34,861 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:46:38,523 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4360mS.
+2020-05-10 17:46:38,529 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 17:46:38,559 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 17:46:48,318 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 604227520 Bytes (1073741824)
+2020-05-10 17:46:48,727 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: SYS
+2020-05-10 17:46:48,727 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: RCC
+2020-05-10 17:46:48,727 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: NVIC
+2020-05-10 17:46:48,727 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: USART
+2020-05-10 17:46:48,727 [INFO] BlockDiagram:1871 - set Specific Code input for plugin: GPIO
+2020-05-10 17:46:48,742 [INFO] CodeGenerator:598 - code generatio: config db path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\
+2020-05-10 17:46:49,264 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp_save
+2020-05-10 17:46:49,394 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\license.tmp
+2020-05-10 17:46:49,434 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp_save
+2020-05-10 17:46:49,685 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\gpio.tmp
+2020-05-10 17:46:49,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:46:49,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2020-05-10 17:46:49,769 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:49,773 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-05-10 17:46:49,775 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-05-10 17:46:49,777 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:49,785 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-05-10 17:46:49,787 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-05-10 17:46:49,822 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c_save
+2020-05-10 17:46:50,139 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_it.c
+2020-05-10 17:46:50,176 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h_save
+2020-05-10 17:46:50,341 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_it.h
+2020-05-10 17:46:50,386 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c_save
+2020-05-10 17:46:50,603 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\stm32f4xx_hal_msp.c
+2020-05-10 17:46:50,632 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp_save
+2020-05-10 17:46:50,747 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\MXTmpFiles\system.tmp
+2020-05-10 17:46:50,777 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-05-10 17:46:50,932 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\stm32f4xx_hal_conf.h
+2020-05-10 17:46:50,972 [WARN] IPConfigManager:2673 - IP not found : gpio
+2020-05-10 17:46:50,976 [WARN] CodeGenerator:2697 - IP not found : gpio
+2020-05-10 17:46:50,998 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h_save
+2020-05-10 17:46:51,168 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Inc\main.h
+2020-05-10 17:46:51,206 [INFO] CodeEngine:193 - oldGeneratedFile, C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c_save
+2020-05-10 17:46:51,461 [INFO] CodeEngine:211 - Generated code: C:\Users\Bico\Desktop\STM32_Learning_HAL_Driver\F407VE_UART_Test\Core\Src\main.c
+2020-05-10 17:46:52,976 [INFO] ProjectBuilder:1645 - Time for Copy HAL[1] : 619mS.
+2020-05-10 17:46:52,986 [INFO] ProjectBuilder:2206 - Project Generator version: 3.5.2
+2020-05-10 17:46:54,281 [INFO] ConfigFileManager:953 - The Die is : DIE413
+2020-05-10 17:46:57,526 [INFO] ProjectBuilder:2373 - Time for Generating toolchain IDE Files: 4540mS.
+2020-05-10 17:46:57,531 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 4mS.
+2020-05-10 17:46:57,558 [INFO] ProjectBuilder:1505 - Time for Copy CMSIS : 0mS.
+2020-05-10 18:04:49,895 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2020-05-10 18:06:25,891 [INFO] Activator:176 - 
+
+
+2020-05-10 18:06:25,901 [INFO] Activator:177 - !SESSION log4j initialized

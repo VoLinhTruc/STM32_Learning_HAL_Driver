@@ -1,0 +1,6 @@
+Snake_Queue.c:10:6:SQ	24	static
+Snake_Queue.c:21:6:SQEnqueue	16	static
+Snake_Queue.c:32:18:SQDequeue	16	static
+Snake_Queue.c:50:15:SQAvailable	16	static
+Snake_Queue.c:62:15:SQPeek	16	static
+Snake_Queue.c:79:15:SQDequeueAll	32	static

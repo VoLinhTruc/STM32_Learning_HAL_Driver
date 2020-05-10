@@ -57,8 +57,8 @@ static void MX_ADC1_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-uint32_t adc_ch0_val = 0;
-uint32_t adc_ch1_val = 0;
+int adc_ch0_val = 0;
+int adc_ch1_val = 0;
 /* USER CODE END 0 */
 
 /**

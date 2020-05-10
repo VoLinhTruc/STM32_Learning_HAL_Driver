@@ -1,0 +1,10 @@
+18:43:16 **** Incremental Build of configuration Debug for project F407VE_UART_Test ****
+make -j4 all 
+arm-none-eabi-size   F407VE_UART_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14944	    120	   1720	  16784	   4190	F407VE_UART_Test.elf
+Finished building: default.size.stdout
+ 
+
+18:43:23 Build Finished. 0 errors, 0 warnings. (took 6s.535ms)
+

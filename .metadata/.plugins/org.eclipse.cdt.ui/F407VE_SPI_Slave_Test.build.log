@@ -1,0 +1,10 @@
+01:05:01 **** Incremental Build of configuration Debug for project F407VE_SPI_Slave_Test ****
+make -j4 all 
+arm-none-eabi-size   F407VE_SPI_Slave_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13628	    124	   1676	  15428	   3c44	F407VE_SPI_Slave_Test.elf
+Finished building: default.size.stdout
+ 
+
+01:05:07 Build Finished. 0 errors, 0 warnings. (took 6s.253ms)
+

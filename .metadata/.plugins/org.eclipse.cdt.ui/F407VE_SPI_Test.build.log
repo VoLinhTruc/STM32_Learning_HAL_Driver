@@ -1,0 +1,10 @@
+23:30:25 **** Incremental Build of configuration Debug for project F407VE_SPI_Test ****
+make -j4 all 
+arm-none-eabi-size   F407VE_SPI_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12004	    120	   1672	  13796	   35e4	F407VE_SPI_Test.elf
+Finished building: default.size.stdout
+ 
+
+23:30:32 Build Finished. 0 errors, 0 warnings. (took 6s.808ms)
+

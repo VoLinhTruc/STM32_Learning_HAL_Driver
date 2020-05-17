@@ -1,31 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="SQ_INDEX_TYPE"/>
+		<item key="selection" value="HAL_SPI_Re"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="uint32_t"/>
-			<item value="UART_HandleTypeDef"/>
-			<item value="-&gt;pRxBuffPtr"/>
-			<item value="USART1_IRQHandler"/>
-			<item value="USE_HAL_UART_REGISTER_CALLBACKS"/>
+			<item value="HAL_SPI_Re"/>
+			<item value="HAL_SPI_Tran"/>
+			<item value="master"/>
+			<item value="hspi-&gt;Instance-&gt;DR"/>
+			<item value="SPI1"/>
+			<item value="-&gt;Instance"/>
+			<item value="-&gt;Instance = "/>
+			<item value="instance-&gt;D"/>
+			<item value="instan"/>
+			<item value="cpltcallback"/>
 			<item value="callback"/>
-			<item value="_write"/>
-			<item value="SysTick_Handler"/>
+			<item value="Transm"/>
+			<item value="SLAVE"/>
+			<item value="HAL_SPI_Receive"/>
+			<item value="HAL_SPI_Rêcive"/>
 		</list>
 		<list key="replacehistory">
 			<item value="SQ_INDEX_TYPE"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="987"/>
-		<item key="DIALOG_Y_ORIGIN" value="137"/>
+		<item key="DIALOG_X_ORIGIN" value="1014"/>
+		<item key="DIALOG_Y_ORIGIN" value="285"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="452"/>
+		<item key="DIALOG_Y_ORIGIN" value="252"/>
 	</section>
 </section>

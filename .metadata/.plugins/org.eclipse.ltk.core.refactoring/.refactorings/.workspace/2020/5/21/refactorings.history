@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;F407VE_SPI_Slave_Test&apos; to &apos;F407VE_SPI_Slave_Receiver_Test&apos;" description="Rename resource &apos;F407VE_SPI_Slave_Test&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/F407VE_SPI_Slave_Test" name="F407VE_SPI_Slave_Receiver_Test" stamp="1589713260551" updateReferences="true"/>
+</session>

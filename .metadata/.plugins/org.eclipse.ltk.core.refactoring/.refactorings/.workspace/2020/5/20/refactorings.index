@@ -4,3 +4,7 @@
 1589108571779	Delete resource 'F407VE_UART_Test/My_Lib_Src'
 1589110783595	Delete resource 'F407VE_UART_Test/Src'
 1589110786815	Delete resource 'F407VE_UART_Test/Inc'
+1589301181732	Rename resource 'F407VE_SPI_Master_Test'
+1589301544859	Rename resource 'F407VE_SPI_Master_Test1'
+1589302747637	Delete resource 'F407VE_SPI_Master_Test/F407VE_SPI_Slave_Test.ioc'
+1589303182924	Delete resource 'F407VE_SPI_Slave_Test/F407VE_SPI_Slave_Test.ioc'

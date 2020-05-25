@@ -1,0 +1,10 @@
+16:19:57 **** Build of configuration Debug for project F407_I2C_Slave_Test_1 ****
+make -j4 all 
+arm-none-eabi-size   F407_I2C_Slave_Test_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7616	     20	   1652	   9288	   2448	F407_I2C_Slave_Test_1.elf
+Finished building: default.size.stdout
+ 
+
+16:20:18 Build Finished. 0 errors, 0 warnings. (took 21s.892ms)
+

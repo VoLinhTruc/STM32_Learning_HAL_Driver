@@ -1,5 +1,11 @@
 eclipse.preferences.version=1
 org.eclipse.cdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+scalability.contentAssistAutoActivation=true
+scalability.enableAll=true
+scalability.numberOfLines=10000
+scalability.parserBasedContentAssist=true
+scalability.semanticHighlight=true
+scalability.syntaxColor=true
 spelling_locale_initialized=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

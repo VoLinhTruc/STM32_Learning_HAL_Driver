@@ -1,0 +1,10 @@
+22:27:54 **** Incremental Build of configuration Debug for project F407VE_I2C_Slave_Test ****
+make -j4 all 
+arm-none-eabi-size   F407VE_I2C_Slave_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14240	     20	   1668	  15928	   3e38	F407VE_I2C_Slave_Test.elf
+Finished building: default.size.stdout
+ 
+
+22:28:04 Build Finished. 0 errors, 0 warnings. (took 10s.128ms)
+

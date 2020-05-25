@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="HAL_SPI_Re"/>
+		<item key="selection" value="STOP"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="I2C_IT_EVT"/>
+			<item value="stop"/>
+			<item value="CurrentState"/>
+			<item value="slavere"/>
+			<item value="Read"/>
+			<item value="_CallBack"/>
+			<item value="CallBack"/>
 			<item value="HAL_SPI_Re"/>
 			<item value="HAL_SPI_Tran"/>
 			<item value="master"/>
@@ -16,13 +23,6 @@
 			<item value="-&gt;Instance"/>
 			<item value="-&gt;Instance = "/>
 			<item value="instance-&gt;D"/>
-			<item value="instan"/>
-			<item value="cpltcallback"/>
-			<item value="callback"/>
-			<item value="Transm"/>
-			<item value="SLAVE"/>
-			<item value="HAL_SPI_Receive"/>
-			<item value="HAL_SPI_Rêcive"/>
 		</list>
 		<list key="replacehistory">
 			<item value="SQ_INDEX_TYPE"/>

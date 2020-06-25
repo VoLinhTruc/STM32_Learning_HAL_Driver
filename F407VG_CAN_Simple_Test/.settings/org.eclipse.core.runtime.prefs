@@ -1,0 +1,3 @@
+content-types/enabled=false
+content-types/org.eclipse.cdt.core.cxxSource/file-extensions=c
+eclipse.preferences.version=1
